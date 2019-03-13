@@ -1,15 +1,13 @@
 h1{
     font-family: Arial;
     color: blue;
+    font-size: 400%;
+    text-align: center
   }
   body{
     margin: 25px 25px;
   }
-  canvas{
-    width: 400px;
-    height: 200px;
-    border: 1px solid lightgray;
-  }
-  input{
-    font-size: 15px;
+  p{
+    font-family: Ariel;
+    font-size: 200%;
   }
